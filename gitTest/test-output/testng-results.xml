@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="22" started-at="2015-08-13T15:40:39Z" finished-at="2015-08-13T15:40:39Z">
+  <suite name="Default suite" duration-ms="220" started-at="2015-08-13T18:11:41Z" finished-at="2015-08-13T18:11:41Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="22" started-at="2015-08-13T15:40:39Z" finished-at="2015-08-13T15:40:39Z">
+    <test name="Default test" duration-ms="220" started-at="2015-08-13T18:11:41Z" finished-at="2015-08-13T18:11:41Z">
       <class name="gitTest.myGitTest">
-        <test-method status="PASS" signature="testGit()[pri:0, instance:gitTest.myGitTest@214a55f2]" name="testGit" duration-ms="10" started-at="2015-08-13T11:40:39Z" finished-at="2015-08-13T11:40:39Z">
+        <test-method status="PASS" signature="testGit()[pri:0, instance:gitTest.myGitTest@65b60280]" name="testGit" duration-ms="180" started-at="2015-08-13T14:11:41Z" finished-at="2015-08-13T14:11:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGit -->
