@@ -11,6 +11,7 @@ public class myGitTest {
   public void testGit() {
 	  check.sum(10,30);
 	  System.out.println("Managing Git with Eclipse");
+	  System.out.println("This is another change");
 	  
 	  
   }
