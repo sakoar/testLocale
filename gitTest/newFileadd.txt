@@ -1,2 +1,6 @@
 new file add
+<<<<<<< HEAD
 This change is from QA
+=======
+This change is from Dev
+>>>>>>> dev
